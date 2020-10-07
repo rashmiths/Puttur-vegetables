@@ -1,6 +1,6 @@
 # PUTTUR_VEGETABLES
 
-MYBANKY is a flutter application that will act as a your personal accountant help you to keep track of your transactions 
+PUTTUR_VEGETABLES is a flutter application an online vegetable shopping app of a particular shop which has google map integration for location sharing and find the shoplocation,order is placed using whatsapp. 
 
 
 ## Getting Started
