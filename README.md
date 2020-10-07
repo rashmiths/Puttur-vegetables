@@ -1,4 +1,4 @@
-# MYBANKY
+# PUTTUR_VEGETABLES
 
 MYBANKY is a flutter application that will act as a your personal accountant help you to keep track of your transactions 
 
@@ -16,7 +16,7 @@ For help getting started with Flutter, view official
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Using MYBANKY
+## Using PUTTUR_VEGETABLES
 
 **Step 1:**
 
@@ -43,6 +43,17 @@ Run the Project
 navigate to `Run` -> `Run Without Debugging` or CTRL+F5 in VsCode
 
 ```
+# Features:
+
+Theme 
+newIcon 
+different fontStyle
+firebase
+google maps
+Opening whatsapp
+Hive Database Bloc
+
+
 ## Screenshot
 
 <table>
